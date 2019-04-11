@@ -1,0 +1,18 @@
+{
+  "extends": "./node_modules/@plugnet/dev/config/tsconfig",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@plugnet/keyring": [ "packages/keyring/src" ],
+      "@plugnet/keyring/*": [ "packages/keyring/src/*" ],
+      "@plugnet/util-crypto": [ "packages/util-crypto/src" ],
+      "@plugnet/util-crypto/*": [ "packages/util-crypto/src/*" ],
+      "@plugnet/util": [ "packages/util/src" ],
+      "@plugnet/util/*": [ "packages/util/src/*" ]
+    },
+    "typeRoots": [
+      "./node_modules/@polkadot/ts",
+      "./node_modules/@types"
+    ]
+  }
+}
