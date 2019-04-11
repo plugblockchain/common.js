@@ -6,7 +6,7 @@ import { Keypair } from '../types';
 
 import nacl from 'tweetnacl';
 import { assert } from '@plugnet/util';
-import { isReady, ed25519Sign } from '@polkadot/wasm-crypto';
+import { isReady, ed25519Sign } from '@plugnet/wasm-crypto';
 
 /**
  * @name naclSign

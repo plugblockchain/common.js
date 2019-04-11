@@ -3,7 +3,7 @@
 // of the Apache-2.0 license. See the LICENSE file for details.
 
 import { hexToU8a, stringToU8a } from '@plugnet/util';
-import { waitReady } from '@polkadot/wasm-crypto';
+import { waitReady } from '@plugnet/wasm-crypto';
 
 import { keccakAsU8a } from '.';
 

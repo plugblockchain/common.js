@@ -4,7 +4,7 @@
 
 import jssha3 from 'js-sha3';
 import { u8aToU8a } from '@plugnet/util';
-import { isReady, keccak256 } from '@polkadot/wasm-crypto';
+import { isReady, keccak256 } from '@plugnet/wasm-crypto';
 
 /**
  * @name keccakAsU8a

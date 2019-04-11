@@ -6,7 +6,7 @@ import '../polyfill';
 
 import { pbkdf2Sync } from 'pbkdf2';
 import { bufferToU8a, stringToU8a, u8aToBuffer } from '@plugnet/util';
-import { bip39ToMiniSecret, isReady } from '@polkadot/wasm-crypto';
+import { bip39ToMiniSecret, isReady } from '@plugnet/wasm-crypto';
 
 import toEntropy from './toEntropy';
 
