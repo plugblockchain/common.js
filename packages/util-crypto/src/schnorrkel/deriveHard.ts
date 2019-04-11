@@ -6,7 +6,7 @@ import { Keypair } from '../types';
 
 import '../polyfill';
 
-import { sr25519DeriveKeypairHard } from '@polkadot/wasm-crypto';
+import { sr25519DeriveKeypairHard } from '@plugnet/wasm-crypto';
 
 import keypairFromU8a from './keypair/fromU8a';
 import keypairToU8a from './keypair/toU8a';

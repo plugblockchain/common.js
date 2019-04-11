@@ -3,7 +3,7 @@
 // of the Apache-2.0 license. See the LICENSE file for details.
 
 import { u8aToU8a } from '@plugnet/util';
-import { isReady, twox } from '@polkadot/wasm-crypto';
+import { isReady, twox } from '@plugnet/wasm-crypto';
 
 import xxhash64AsBn from './xxhash64/asBn';
 

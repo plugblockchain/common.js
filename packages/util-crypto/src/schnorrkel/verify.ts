@@ -4,7 +4,7 @@
 
 import '../polyfill';
 
-import { sr25519Verify } from '@polkadot/wasm-crypto';
+import { sr25519Verify } from '@plugnet/wasm-crypto';
 
 /**
  * @name schnorrkelVerify

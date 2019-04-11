@@ -4,7 +4,7 @@
 
 import './polyfill';
 
-import wasmCrypto from '@polkadot/wasm-crypto';
+import wasmCrypto from '@plugnet/wasm-crypto';
 
 export * from './blake2';
 export * from './keccak';

@@ -3,7 +3,7 @@
 // of the Apache-2.0 license. See the LICENSE file for details.
 
 import nacl from 'tweetnacl';
-import { isReady, sha512 } from '@polkadot/wasm-crypto';
+import { isReady, sha512 } from '@plugnet/wasm-crypto';
 
 /**
  * @name sha512AsU8a

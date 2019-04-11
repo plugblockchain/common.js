@@ -4,7 +4,7 @@
 
 import { mnemonicToSeed } from 'bip39';
 import { bufferToU8a } from '@plugnet/util';
-import { bip39ToSeed, isReady } from '@polkadot/wasm-crypto';
+import { bip39ToSeed, isReady } from '@plugnet/wasm-crypto';
 
 /**
  * @name toSeed

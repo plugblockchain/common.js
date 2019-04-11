@@ -4,7 +4,7 @@
 
 import blakejs from 'blakejs';
 import { u8aToU8a } from '@plugnet/util';
-import { blake2b, isReady } from '@polkadot/wasm-crypto';
+import { blake2b, isReady } from '@plugnet/wasm-crypto';
 
 /**
  * @name blake2AsU8a

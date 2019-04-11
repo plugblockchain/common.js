@@ -7,7 +7,7 @@ import { Keypair } from '../types';
 import '../polyfill';
 
 import { assert } from '@plugnet/util';
-import { sr25519Sign } from '@polkadot/wasm-crypto';
+import { sr25519Sign } from '@plugnet/wasm-crypto';
 
 /**
  * @name schnorrkelSign
