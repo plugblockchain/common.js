@@ -1,5 +1,5 @@
-const { stringToU8a, u8aToHex } = require('@polkadot/util');
-const { naclEncrypt, naclKeypairFromSeed, naclSign, naclVerify, randomAsU8a } = require('@polkadot/util-crypto');
+const { stringToU8a, u8aToHex } = require('@plugnet/util');
+const { naclEncrypt, naclKeypairFromSeed, naclSign, naclVerify, randomAsU8a } = require('@plugnet/util-crypto');
 
 async function main () {
   // Create account seed for Alice as fallback if generated mnemonic not valid

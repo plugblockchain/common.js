@@ -15,7 +15,7 @@
     "@vuepress/core": "1.0.0-alpha.44"
   },
   "scripts": {
-    "build": "plugnet-dev-build-ts && plugnet-dev-build-docs",
+    "build": "plugnet-dev-build-ts",
     "check": "yarn lint",
     "lint": "tslint --project . && tsc --noEmit --pretty",
     "clean": "plugnet-dev-clean-build",
