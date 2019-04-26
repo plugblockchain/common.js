@@ -15,11 +15,11 @@ export default function assertSingletonPackage (name: string): void {
     ? window
     : global;
 
-  if (!_global.__polkadotjs) {
-    _global.__polkadotjs = {};
+  if (!_global.__plugnetjs) {
+    _global.__plugnetjs = {};
   }
 
-  assert(isUndefined(_global.__polkadotjs[name]), `Multiple versions of ${name} detected, ensure that there is only version one in your dependency tree`);
+  assert(isUndefined(_global.__plugnetjs[name]), `Multiple versions of ${name} detected, ensure that there is only version one in your dependency tree`);
 
-  _global.__polkadotjs[name] = true;
+  _global.__plugnetjs[name] = true;
 }
