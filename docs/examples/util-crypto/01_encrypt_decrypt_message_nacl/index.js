@@ -1,4 +1,4 @@
-const { naclEncrypt, naclDecrypt } = require('@polkadot/util-crypto');
+const { naclEncrypt, naclDecrypt } = require('@plugnet/util-crypto');
 
 async function main () {
   const secret = new Uint8Array(32);

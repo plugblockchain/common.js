@@ -16,7 +16,7 @@ import Pairs from './pairs';
 assertSingletonPackage('@plugnet/keyring');
 
 /**
- * # @polkadot/keyring
+ * # @plugnet/keyring
  *
  * ## Overview
  *
