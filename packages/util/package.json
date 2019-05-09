@@ -1,6 +1,6 @@
 {
   "name": "@plugnet/util",
-  "version": "0.90.0",
+  "version": "0.90.100",
   "description": "A collection of useful utilities for @plugnet",
   "main": "index.js",
   "keywords": [
