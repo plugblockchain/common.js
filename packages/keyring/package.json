@@ -3,9 +3,6 @@
   "version": "0.90.100",
   "description": "Keyring management",
   "main": "index.js",
-  "engines": {
-    "node": ">=8.0"
-  },
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
@@ -30,7 +27,7 @@
   },
   "homepage": "https://github.com/plugblockchain/common.js/tree/master/packages/keyring#readme",
   "dependencies": {
-    "@babel/runtime": "^7.4.4",
+    "@babel/runtime": "^7.4.5",
     "@plugnet/util": "^0.90.100",
     "@plugnet/util-crypto": "^0.90.100",
     "@types/bs58": "^4.0.0",
