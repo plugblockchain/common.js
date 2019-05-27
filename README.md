@@ -3,6 +3,8 @@
 
 # @plugnet/common
 
+_This repo is a fork of [@polkadot/common](https://github.com/polkadot-js/common), up to the version which works with current plug-node_
+
 Various useful utility functions that are used across all projects in the [@plugnet](https://www.poweredbyplug.com/) namespace. It provides utility functions with additional safety checks, allowing not only for consistent coding, but also reducing the general boilerplate.
 
 ## overview
