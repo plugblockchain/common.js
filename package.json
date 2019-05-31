@@ -22,7 +22,7 @@
   "devDependencies": {
     "@babel/core": "^7.4.5",
     "@plugnet/dev": "^0.30.5",
-    "@polkadot/ts": "^0.1.56",
+    "@polkadot/ts": "^0.1.58",
     "gh-pages": "^2.0.1"
   }
 }
