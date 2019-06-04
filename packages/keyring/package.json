@@ -1,6 +1,6 @@
 {
   "name": "@plugnet/keyring",
-  "version": "0.90.100",
+  "version": "0.92.0",
   "description": "Keyring management",
   "main": "index.js",
   "publishConfig": {
@@ -28,8 +28,8 @@
   "homepage": "https://github.com/plugblockchain/common.js/tree/master/packages/keyring#readme",
   "dependencies": {
     "@babel/runtime": "^7.4.5",
-    "@plugnet/util": "^0.90.100",
-    "@plugnet/util-crypto": "^0.90.100",
+    "@plugnet/util": "^0.92.0",
+    "@plugnet/util-crypto": "^0.92.0",
     "@types/bs58": "^4.0.0",
     "bs58": "^4.0.1"
   }
