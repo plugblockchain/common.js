@@ -9,6 +9,11 @@
   ],
   "resolutions": {
     "babel-core": "^7.0.0-bridge.0",
+    "braces": "^2.3.2",
+    "fstream": "^1.0.12",
+    "handlebars": "^4.1.2",
+    "js-yaml": "^3.13.1",
+    "marked": "^0.6.2",
     "typescript": "^3.5.1"
   },
   "scripts": {
