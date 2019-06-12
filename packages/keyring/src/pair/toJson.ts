@@ -6,8 +6,7 @@ import { KeypairType } from '@plugnet/util-crypto/types';
 import { KeyringPair$Json, KeyringPair$Meta } from '../types';
 
 import { u8aToHex } from '@plugnet/util';
-
-import { encodeAddress } from '../address';
+import { encodeAddress } from '@plugnet/util-crypto';
 
 type PairStateJson = KeyringPair$Meta & {
   publicKey: Uint8Array

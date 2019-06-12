@@ -6,9 +6,8 @@ import { KeypairType } from '@plugnet/util-crypto/types';
 import { KeyringInstance, KeyringPair, KeyringPair$Json, KeyringPair$Meta, KeyringOptions } from './types';
 
 import { assert, hexToU8a, isNumber, isHex, stringToU8a } from '@plugnet/util';
-import { keyExtractSuri, naclKeypairFromSeed as naclFromSeed, schnorrkelKeypairFromSeed as schnorrkelFromSeed, mnemonicToMiniSecret, keyFromPath } from '@plugnet/util-crypto';
+import { decodeAddress, encodeAddress, keyExtractSuri, keyFromPath, naclKeypairFromSeed as naclFromSeed, schnorrkelKeypairFromSeed as schnorrkelFromSeed, mnemonicToMiniSecret, setAddressPrefix } from '@plugnet/util-crypto';
 
-import { decodeAddress, encodeAddress, setAddressPrefix } from './address';
 import { DEV_PHRASE } from './defaults';
 import createPair from './pair';
 import Pairs from './pairs';
