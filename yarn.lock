@@ -1806,10 +1806,10 @@
   resolved "https://registry.yarnpkg.com/@plugnet/wasm-crypto/-/wasm-crypto-0.11.100.tgz#e9f9a00e2c94bf75c54c6b762bc305b5a93df5a6"
   integrity sha512-uiomay7MiHKyNnr41RU2yxh1ZVx18YJlzX4mmXuv/eSbFR8Xr7qoZa1raOfiOIJ54MUzitk6r7qF2UfibzVYnA==
 
-"@polkadot/ts@^0.1.58":
-  version "0.1.59"
-  resolved "https://registry.yarnpkg.com/@polkadot/ts/-/ts-0.1.59.tgz#e7418db78ad50291a46d61a3ab34ab465c0c3bf0"
-  integrity sha512-+kiST4RjeuyMWu2HdqIA6Ph2AifjGvlQ5bLDe9mfuApH07h8fgtzu+xVE4FZvMkLtjyKD+FSbB/oVplq2R1WEw==
+"@polkadot/ts@^0.1.60":
+  version "0.1.60"
+  resolved "https://registry.yarnpkg.com/@polkadot/ts/-/ts-0.1.60.tgz#60d2dcfe1213be9361df25e5185b51241bd5c38d"
+  integrity sha512-6cnudbwTsL28HOs4JNXMNLZ5mhrugdtMGkNKB7mbLQzdPjMow9AU8s8mYBwRV8R4gkcr4frMH/fS4TrJORKy6w==
   dependencies:
     "@types/chrome" "^0.0.86"
 
