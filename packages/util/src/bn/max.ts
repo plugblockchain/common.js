@@ -14,7 +14,7 @@ import assert from '../assert';
  *
  * ```javascript
  * import BN from 'bn.js';
- * import { max } from '@polkadot/util';
+ * import { max } from '@plugnet/util';
  *
  * max([new BN(1), new BN(3), new BN(2)]).toString(); // => '3'
  * ```

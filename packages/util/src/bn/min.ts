@@ -14,7 +14,7 @@ import assert from '../assert';
  *
  * ```javascript
  * import BN from 'bn.js';
- * import { min } from '@polkadot/util';
+ * import { min } from '@plugnet/util';
  *
  * min([new BN(1), new BN(3), new BN(2)]).toString(); // => '1'
  * ```

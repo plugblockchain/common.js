@@ -3,8 +3,8 @@
 // of the Apache-2.0 license. See the LICENSE file for details.
 
 import { assertSingletonPackage } from '@plugnet/util';
+import { decodeAddress, encodeAddress, setAddressPrefix } from '@plugnet/util-crypto';
 
-import { decodeAddress, encodeAddress, setAddressPrefix } from './address';
 import { default as Keyring } from './keyring';
 
 assertSingletonPackage('@plugnet/keyring');
