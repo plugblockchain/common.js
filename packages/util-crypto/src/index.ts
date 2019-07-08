@@ -23,7 +23,7 @@ export function cryptoWaitReady (): Promise<boolean> {
     .waitReady()
     .then(() => true)
     .catch((error) => {
-      console.error('Unable to initialize @polkadot/util-crypto', error);
+      console.error('Unable to initialize @plugnet/util-crypto', error);
 
       return false;
     });
