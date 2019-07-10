@@ -20,7 +20,7 @@
     "test": "jest --coverage"
   },
   "devDependencies": {
-    "@babel/core": "^7.5.0",
+    "@babel/core": "^7.5.4",
     "@plugnet/dev": "^0.30.8",
     "@polkadot/ts": "^0.1.61",
     "gh-pages": "^2.0.1"
