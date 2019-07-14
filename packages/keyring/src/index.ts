@@ -5,7 +5,7 @@
 import { assertSingletonPackage } from '@plugnet/util';
 import { decodeAddress, encodeAddress, setAddressPrefix } from '@plugnet/util-crypto';
 
-import { default as Keyring } from './keyring';
+import Keyring from './keyring';
 
 assertSingletonPackage('@plugnet/keyring');
 
