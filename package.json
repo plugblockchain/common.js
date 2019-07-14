@@ -14,7 +14,7 @@
   "scripts": {
     "build": "plugnet-dev-build-ts",
     "check": "yarn lint",
-    "lint": "tslint --project . && tsc --noEmit --pretty",
+    "lint": "eslint . --ext .js,.jsx,.ts,.tsx . && tsc --noEmit --pretty",
     "clean": "plugnet-dev-clean-build",
     "postinstall": "plugnet-dev-yarn-only",
     "test": "jest --coverage"
