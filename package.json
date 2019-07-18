@@ -21,7 +21,7 @@
     "test:one": "jest"
   },
   "devDependencies": {
-    "@babel/core": "^7.5.4",
+    "@babel/core": "^7.5.5",
     "@plugnet/dev": "^0.30.8",
     "@polkadot/ts": "^0.1.62",
     "gh-pages": "^2.0.1"
