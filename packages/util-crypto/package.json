@@ -27,7 +27,7 @@
   "dependencies": {
     "@babel/runtime": "^7.5.5",
     "@plugnet/util": "^0.93.101",
-    "@plugnet/wasm-crypto": "^0.11.100",
+    "@plugnet/wasm-crypto": "^0.13.100",
     "@types/bip39": "^2.4.2",
     "@types/bs58": "^4.0.0",
     "@types/pbkdf2": "^3.0.0",

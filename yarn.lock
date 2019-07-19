@@ -53,7 +53,7 @@
     semver "^5.4.1"
     source-map "^0.5.0"
 
-"@babel/core@^7.5.4", "@babel/core@^7.5.5":
+"@babel/core@^7.5.5":
   version "7.5.5"
   resolved "https://registry.yarnpkg.com/@babel/core/-/core-7.5.5.tgz#17b2686ef0d6bc58f963dddd68ab669755582c30"
   integrity sha512-i4qoSr2KTtce0DmkuuQBV4AuQgGPUcPXMr9L5MyYAtk06z068lQ10a4O009fe5OB/DfNV+h+qqT7ddNV8UnRjg==
@@ -983,7 +983,7 @@
   dependencies:
     regenerator-runtime "^0.13.2"
 
-"@babel/runtime@^7.5.4", "@babel/runtime@^7.5.5":
+"@babel/runtime@^7.5.5":
   version "7.5.5"
   resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.5.5.tgz#74fba56d35efbeca444091c7850ccd494fd2f132"
   integrity sha512-28QvEGyQyNkB0/m2B4FU7IEZGK2NUrcMtT6BZEFALTguLk+AUT6ofsHtPk5QyjAdUkpMJ+/Em+quwz4HOt30AQ==
@@ -2066,10 +2066,10 @@
     typescript "^3.5.3"
     vuepress "^1.0.2"
 
-"@plugnet/wasm-crypto@^0.11.100":
-  version "0.11.100"
-  resolved "https://registry.yarnpkg.com/@plugnet/wasm-crypto/-/wasm-crypto-0.11.100.tgz#e9f9a00e2c94bf75c54c6b762bc305b5a93df5a6"
-  integrity sha512-uiomay7MiHKyNnr41RU2yxh1ZVx18YJlzX4mmXuv/eSbFR8Xr7qoZa1raOfiOIJ54MUzitk6r7qF2UfibzVYnA==
+"@plugnet/wasm-crypto@^0.13.100":
+  version "0.13.100"
+  resolved "https://registry.yarnpkg.com/@plugnet/wasm-crypto/-/wasm-crypto-0.13.100.tgz#759e30c532bf2dceea396ddcfa9d47c93819a72d"
+  integrity sha512-m1yuRRFWTDfOR1DNk+Abxe9qH0nvQPrECpG3eK1AdEquHRKEkuoapzG6CjH2bmtK2ibYSbxjKrP0NZKOc16urQ==
 
 "@polkadot/ts@^0.1.62":
   version "0.1.62"

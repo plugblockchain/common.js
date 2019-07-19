@@ -6,7 +6,7 @@ import isUndefined from './is/undefined';
 import assert from './assert';
 
 interface PjsChecks {
-  __polkadotjs: Record<string, boolean>;
+  __plugnetjs: Record<string, boolean>;
 }
 
 type PjsGlobal = NodeJS.Global & PjsChecks;
