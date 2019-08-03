@@ -24,6 +24,6 @@
     "@babel/core": "^7.5.5",
     "@plugnet/dev": "^0.31.0",
     "@polkadot/ts": "^0.1.62",
-    "gh-pages": "^2.1.0"
+    "gh-pages": "2.0.1"
   }
 }
