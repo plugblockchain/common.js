@@ -10,7 +10,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@polkadot/keyring": "*"
+    "@plugnet/keyring": "*"
   },
   "devDependencies": {
     "rimraf": "^2.6.2"

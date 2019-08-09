@@ -1847,7 +1847,7 @@
   resolved "https://registry.yarnpkg.com/@plugnet/wasm-crypto/-/wasm-crypto-0.13.100.tgz#759e30c532bf2dceea396ddcfa9d47c93819a72d"
   integrity sha512-m1yuRRFWTDfOR1DNk+Abxe9qH0nvQPrECpG3eK1AdEquHRKEkuoapzG6CjH2bmtK2ibYSbxjKrP0NZKOc16urQ==
 
-"@polkadot/ts@^0.1.62":
+"@polkadot/ts@^0.1.63":
   version "0.1.63"
   resolved "https://registry.yarnpkg.com/@polkadot/ts/-/ts-0.1.63.tgz#9de0014e706014fc4ce059bc37fd6818d20de492"
   integrity sha512-NYdq63CFBp1+4V9RMzbaIxG7doaSvIVWlFBb6hMEu0MemheULiag+Gj/98lalVYipB8a4KCBoaIt//YTCEh6oQ==
