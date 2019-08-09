@@ -10,7 +10,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@plugnet/util-crypto": "^0.76.2-beta.0"
+    "@plugnet/util-crypto": ">=0.76.2-beta.0"
   },
   "devDependencies": {
     "rimraf": "^2.6.2"

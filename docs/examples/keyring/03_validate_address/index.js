@@ -1,6 +1,6 @@
 /* eslint-disable @typescript-eslint/no-var-requires */
-const { encodeAddress, decodeAddress } = require('@polkadot/keyring');
-const { isHex, hexToU8a } = require('@polkadot/util');
+const { encodeAddress, decodeAddress } = require('@plugnet/keyring');
+const { isHex, hexToU8a } = require('@plugnet/util');
 
 const address = '5GrpknVvGGrGH3EFuURXeMrWHvbpj3VfER1oX5jFtuGbfzCE';
 
