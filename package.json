@@ -9,7 +9,10 @@
   ],
   "resolutions": {
     "babel-core": "^7.0.0-bridge.0",
-    "typescript": "^3.5.3"
+    "typescript": "^3.5.3",
+    "https-proxy-agent": "^2.2.3",
+    "handlebars": "^4.5.3",
+    "eslint-utils": "^1.4.1"
   },
   "scripts": {
     "build": "plugnet-dev-build-ts",
